@@ -12,6 +12,6 @@ def link
 end 
 def any_phrase
   puts "Do A Barrel Roll"
-  any_phrase["Do A Barrel Roll"]
+  any_phrase{"Do A Barrel Roll"}
 end 
 
