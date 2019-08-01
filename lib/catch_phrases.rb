@@ -12,8 +12,7 @@ def link
 end 
 def any_phrase
   if any_phrase
-   "It's-a me, Mario!"
-  else "Do A Barrel Roll"
-  any_phrase{"Do A Barrel Roll"}
+   "Do A Barrel Roll"
+  else "It's-a me, Mario!"
 end 
 
