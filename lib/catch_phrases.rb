@@ -11,7 +11,7 @@ def link
   puts status 
 end 
 def any_phrase
-  if {any_phrase
+  if any_phrase
   
   puts "Do A Barrel Roll"
   any_phrase{"Do A Barrel Roll"}
