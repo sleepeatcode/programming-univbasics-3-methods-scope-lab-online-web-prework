@@ -11,7 +11,7 @@ def link
   puts status 
 end 
 def any_phrase
-  phrase "Do A Barrel Roll"
+  p "Do A Barrel Roll"
   puts any_phrase["Do A Barrel Roll"]
 end 
 
