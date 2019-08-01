@@ -11,7 +11,7 @@ def link
   puts status 
 end 
 def any_phrase
-  if mario
+  if any_phrase
    "It's-a me, Mario!"
   else "Do A Barrel Roll"
   any_phrase{"Do A Barrel Roll"}
